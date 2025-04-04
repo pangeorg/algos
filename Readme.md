@@ -1,7 +1,7 @@
-# Rloom
+# Algos
 
-Simple Rust Bloom Filter implementation.
+A collection of algorithms and datastructures for me to learn them.
 
-Maybe there are a few more things to add :D
+There a implementations in different languages, from C# to python to Rust.
 
-
+I hope to add some purely functional languages as well
